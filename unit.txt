@@ -1,0 +1,3 @@
+1000000,COM101,Introduction to Computer Science,100
+1123123,PSY101,Introduction to Psychology,100
+5467893,CHE101,Introduction to Chemistry,100
